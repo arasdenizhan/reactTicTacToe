@@ -3,7 +3,7 @@
 This project was made with ReactJs.
 It is the official tutorial project of the getting started section in official website.
 
-## Available Scripts
+## Commands
 
 In the project directory, you can run:
 
